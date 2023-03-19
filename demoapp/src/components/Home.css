@@ -1,0 +1,19 @@
+.home{
+       color: blueviolet;
+       align-content: center;
+       text-align: center;
+       font-size: 29px;
+       font-weight: bolder;
+}
+
+.list{
+       margin-top: 10px;
+      
+       
+}
+
+.list_item{
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+}

@@ -1,0 +1,10 @@
+import { Client } from 'appwrite';
+
+const client = new Client();
+
+client
+    .setEndpoint('https://8080-appwrite-integrationfor-05ge2ceza6o.ws-us85.gitpod.io/v1')
+    .setProject('63e12c260fd5c7927ec5');
+
+
+   

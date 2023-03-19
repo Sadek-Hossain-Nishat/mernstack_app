@@ -1,0 +1,51 @@
+.header{
+       text-align: center;
+       color: tomato;
+       font-size: 100px;
+       font-style: oblique;
+       font-weight: bolder;
+}
+
+.connect_with_migo{
+
+
+  height: 50px;
+  width: 200px;
+  align-items: center;
+  background-color: lightslategrey;
+  color: white;
+   text-align: center;
+   border-color: lightslategray;
+   box-shadow: 5cm;
+   
+  
+  font-size: 20px;
+  border-radius: 10rem;
+
+  margin-top: 70px;
+ 
+  
+
+       
+
+}
+
+.landing_page{
+       align-items: center;
+       justify-content: center;
+       justify-items: center;
+       display: flex;
+       flex-direction: column;
+       background-color: blueviolet;
+       width: 100vw;
+       height: 100vh;
+}
+
+a{
+       color: white;
+       text-decoration: none;
+       
+      
+      
+
+}

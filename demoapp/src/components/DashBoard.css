@@ -1,0 +1,39 @@
+.navbar{
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+       background-color: rgb(88, 182, 245);
+
+       
+    
+}
+.navbar>button{
+       background-color: rgb(179, 14, 185);
+       color: white;
+       font-size: 20px;
+       border-radius: 30px;
+       height: 50px;
+       width: 150px;
+}
+
+.body>h1{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 50px;
+       color: rgb(107, 59, 240);
+}
+
+
+.content{
+
+       align-self: center;
+       height: 300px;
+       width: 300px;
+       margin-left: 100px;
+
+}
+.content>img{
+       height: 200px;
+       width: 200px;
+       border-radius: 40px;
+}
+
