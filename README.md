@@ -3,7 +3,7 @@
 // author by Sadek Hossain Nishat
 
 // starting command => just open a terminal in your project directory and run
-npm start
+  'npm start'
 
 // local server url is => http://localhost:4000
 
